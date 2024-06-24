@@ -1,5 +1,5 @@
 # Thoughts Nexus
 
-Personal site were I share ideas
+Website where I share ideas.
 
 https://francis-bilodeau.github.io/ThoughtsNexus/
