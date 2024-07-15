@@ -1,3 +1,3 @@
 # Emergence and Complexity
 
-Coming soon
+Coming soon.

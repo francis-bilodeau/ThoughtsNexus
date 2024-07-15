@@ -1,7 +1,6 @@
 site_name: Thoughts Nexus
 
 
-
 nav:
   - How to Emerge AGI:
     - Intro: ./HowtoEmergeAGI/Intro.md
@@ -11,7 +10,6 @@ nav:
     - Roadmap : ./HowtoEmergeAGI/Roadmap.md
 
   - About: index.md
-
 
 
 theme:
