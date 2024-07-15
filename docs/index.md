@@ -1,7 +1,7 @@
 <h1 align="center"> About the Author </h1>
 
 <p align="center">
-    <img src="/images/portrait.png" width="175">
+    <img src="images/portrait.png" width="175">
 </p>
 
 My name is Francis Bilodeau. I am a MASc robotics engineer and a self-taught computer and machine learning scientist.
