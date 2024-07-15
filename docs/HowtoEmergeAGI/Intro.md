@@ -1,6 +1,6 @@
 # Intro
 
-Coming Soon
+Coming soon
 
 
 

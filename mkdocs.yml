@@ -3,11 +3,14 @@ site_name: Thoughts Nexus
 
 
 nav:
-  - Home: index.md
-  - The Emergent AGI Roadmap:
-    - Intro: ./EmergentAGIRoadmap/intro.md
-    - Emergence and Complexity: ./EmergentAGIRoadmap/emergence_complexity.md
-  - Bio: bio.md
+  - How to Emerge AGI:
+    - Intro: ./HowtoEmergeAGI/Intro.md
+    - Emergence and Complexity: ./HowtoEmergeAGI/Emergence_and_Complexity.md
+    - An Ideal Algorithm: ./HowtoEmergeAGI/An_Ideal_Algorithm.md
+    - Artificial Stem Neurons: ./HowtoEmergeAGI/Artificial_Stem_Neurons.md
+    - Roadmap : ./HowtoEmergeAGI/Roadmap.md
+
+  - About: index.md
 
 
 
@@ -16,7 +19,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -49,6 +51,12 @@ theme:
         name: Switch to system preference
       primary: black
       accent: cyan
+
+markdown_extensions:
+  - toc:
+      permalink: false
+  - attr_list
+  - md_in_html
 
 # plugins:
 #   - blog:

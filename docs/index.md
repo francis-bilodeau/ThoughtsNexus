@@ -1,19 +1,12 @@
-# Home
+<h1 align="center"> About the Author </h1>
 
-Generating content...
+<p align="center">
+    <img src="/images/portrait.png" width="175">
+</p>
 
-<!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+My name is Francis Bilodeau. I am a MASc robotics engineer and a self-taught computer and machine learning scientist.
 
-## Commands
+Constantly brainstorming about life, sciences, and technologies, I have accumulated some interesting ideas over the years, some of which might hopefully make it here.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+I initially created this website to share my vision of [How to Emerge AGI](/HowtoEmergeAGI/Intro/).
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files. -->
