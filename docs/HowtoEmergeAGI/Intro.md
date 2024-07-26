@@ -24,7 +24,7 @@ What would be the ultimate machine learning algorithm? We don't know yet, but we
 
 ### Artificial Stem Neurons
 
-Emergent Neural Algorithms (ENA) might be the key to creating AGIs. To make them a reality, we need a computationally efficient framework that enables the stacking of emergent proprieties. Artificial Stem Neurons (ASN) could be the fundamental units of such a framework. They would differentiate and express unique behaviors inside a complex neural network, analogous to biological stem neurons. Different ASN strains could be evolved for specific or general purpose. Unlike simple artificial neurons, ASNs need more advanced components to create ENAs. In the long term, ASNs could approach ideal ML algorithm capabilities.
+Emergent Neural Algorithms (ENA) might be the key to creating AGIs. To make them a reality, we need a computationally efficient framework that enables the stacking of emergent proprieties. Artificial Stem Neurons (ASN) could be the fundamental units of such a framework. They would differentiate and express unique behaviors inside a complex neural network, analogous to biological stem neurons. Different ASN strains could be evolved for specific or general purpose. In the long term, ASNs could approach ideal ML algorithm capabilities.
 
 
 ### RoadMap
