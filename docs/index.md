@@ -8,5 +8,5 @@ My name is Francis Bilodeau. I am a MASc robotics engineer and a self-taught com
 
 Constantly brainstorming about life, sciences, and technologies, I have accumulated some interesting ideas over the years, some of which might hopefully make it here.
 
-I initially created this website to share my vision of [How to Emerge AGI](/HowtoEmergeAGI/Intro/).
+I initially created this website to share my vision of [How to Emerge AGI](HowtoEmergeAGI/Intro.md).
 
