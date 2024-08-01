@@ -9,9 +9,17 @@ After countless hours of brainstorming and conceptualizing possible solutions, t
 
 I argue that a conceptual framework, referred to as **Artificial Stem Neurons (ASN)**, could introduce a significant paradigm shift for advancing AI in the future. This framework might provide the foundation for developing efficient and aligned AGIs by enabling the creation of **Emergent Neural Algorithms (ENA)**.
 
+Artificial Stem Neurons, like their biological counterparts, would diversify into specific neuron types. These could then connect and interact in particular ways to form complex neural structures and collective intelligences. Through an iterative exploratory process, we could evolve ASN capabilities and create algorithms that are neural in nature. In other words, these new algorithms would be emergent properties of diversified ASN networks.
+
+These Emergent Neural Algorithms could enable us to surpass current AIs by enabling the creation of algorithms more complex and efficient than we can design "by hand."
+
+In a sense, the human brain is an ENA that is tuned for the survival of our species. We could tune artificial ENAs exactly as we want, for specific or general purposes. This could help us bridge the gap between present AIs' abilities and our own cognitive abilities.
+
 This essay series is divided into four main sections. Part one, **Emergence and Complexity**, discusses how complex intelligence emerged and could be artificially emerged. Part two, **An Ideal ML Algorithm**, hypothesizes the ideal proprieties of a perfect machine learning algorithm. Part three, **Artificial Stem Neuron,** presents in detail the conceptual framework that could enable emerging AGIs. Finally, in **RoadMap**, a plan and ideas are shared for researching Artificial Stem Neurons and Emergent Neural Algorithms.
 
+
 ## Main Section Overviews
+
 
 ### Emergence and Complexity
 
@@ -24,8 +32,7 @@ What would be the ultimate machine learning algorithm? We don't know yet, but we
 
 ### Artificial Stem Neurons
 
-Emergent Neural Algorithms (ENA) might be the key to creating AGIs. To make them a reality, we need a computationally efficient framework that enables the stacking of emergent proprieties. Artificial Stem Neurons (ASN) could be the fundamental units of such a framework. They would differentiate and express unique behaviors inside a complex neural network, analogous to biological stem neurons. Different ASN strains could be evolved for specific or general purposes. In the long term, ASNs could approach ideal ML algorithm capabilities.
-
+Emergent Neural Algorithms (ENA) might be the key to creating AGIs. To make them a reality, we need a computationally efficient framework that enables the stacking of emergent proprieties. Artificial Stem Neurons (ASN) could be the fundamental units of such a framework. They would differentiate and express unique behaviors to create complex neural networks, analogous to biological stem neurons. Different ASN strains could be evolved for specific or general purposes. In the long term, ASNs could approach ideal ML algorithm capabilities.
 
 ### RoadMap
 
@@ -39,7 +46,3 @@ This essay series presupposes a basic understanding of the following concepts:
 - Deep Reinforcement Learning
 - Evolution and Natural Selection
 - Emergence and Complex Systems
-
-
-
-
