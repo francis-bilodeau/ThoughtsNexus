@@ -29,10 +29,9 @@ There are still many significant high-level differences between artificial and n
 
 What would be the ultimate machine learning algorithm? We don't know yet, but we can try imagining its capabilities. It can be conceptualized as a black box with inputs, outputs, and/or reward signals. Whatever the task at hand, this black box would act as the optimal algorithm for that particular task. It would produce the best generalization performance with the least amount of resources. It would learn optimally from a reward signal. If the task requires it to be an AGI, it would be controllable and aligned.
 
-
 ### Artificial Stem Neurons
 
-Emergent Neural Algorithms (ENA) might be the key to creating AGIs. To make them a reality, we need a computationally efficient framework that enables the stacking of emergent proprieties. Artificial Stem Neurons (ASN) could be the fundamental units of such a framework. They would differentiate and express unique behaviors to create complex neural networks, analogous to biological stem neurons. Different ASN strains could be evolved for specific or general purposes. In the long term, ASNs could approach ideal ML algorithm capabilities.
+Emergent Neural Algorithms (ENA) may hold the key to developing Artificial General Intelligences (AGIs). At the core of these advanced neural networks would be Artificial Stem Neurons (ASN), which differentiate and exhibit unique behaviors analogous to biological stem neurons. Various ASN strains could be evolved to serve either specific or general purposes, and over time, these strains could potentially match the capabilities of ideal machine learning algorithms. To fully realize this vision, a computationally efficient framework grounded in the principles of meta-learning, collective intelligence, and neuroplasticity is required.
 
 ### RoadMap
 
